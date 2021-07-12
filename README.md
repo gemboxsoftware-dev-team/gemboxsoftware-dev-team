@@ -17,6 +17,6 @@ List of our .NET and Java components:
 
 You can contact us at:
 
-- [Contact](https://www.gemboxsoftware.com/company/contact)
-- [Facebook](https://www.facebook.com/GemBoxLtd)
-- [Twitter](https://twitter.com/GemBoxLtd)
+[![GemBox Facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/GemBoxLtd)
+[![GemBox Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GemBoxLtd)
+[![GemBox Linkin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/GemBoxLtd)
