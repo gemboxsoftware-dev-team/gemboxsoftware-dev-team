@@ -6,14 +6,13 @@ GemBox components are used by many developers in more than 7000 companies from a
 
 Read more on [Customers](https://www.gemboxsoftware.com/company/customers).
 
-List of our .NET and Java components:
+List of our .NET components:
 
 - [GemBox.Spreadsheet](https://www.gemboxsoftware.com/spreadsheet)
 - [GemBox.Document](https://www.gemboxsoftware.com/document)
 - [GemBox.Pdf](https://www.gemboxsoftware.com/pdf)
 - [GemBox.Presentation](https://www.gemboxsoftware.com/presentation)
 - [GemBox.Email](https://www.gemboxsoftware.com/email)
-- [GemBox.Spreadsheet for Java](https://www.gemboxsoftware.com/spreadsheet-java)
 
 You can contact us at:
 
